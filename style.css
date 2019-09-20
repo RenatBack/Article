@@ -1,0 +1,173 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 auto;
+	padding: 0 40px;
+	width: 800px;
+	border: 1px solid red;
+}
+
+h1{
+	font-size: 30px;
+	line-height: 35px;
+	color: #484848;
+	margin: 70px 0 40px 0;
+}
+
+/*write your styles here*/
+
+.article__blockcode{
+background:#f8dd3c;
+color:#766a31;
+font-style: 16px;
+font-family: monospace;
+text-align: right;
+padding-right: 60px;
+padding-top: 80px;
+margin: 0;
+border-radius: 6px 6px 0 0;
+
+}
+
+.article__blocktitle{
+background:#f8dd3c;
+color:#766a31;
+font-size:41px;
+text-align:right;
+padding-right: 60px;
+padding-top: 15px;
+margin: 0;
+
+}
+.article__block-title strong{
+font-weight: 600;
+}
+
+.article__block-js {
+background: #f8dd3c;
+color: #766a31;
+font-size: 90px;
+line-height: 95px;
+text-align: right;
+padding: 0 60px 80px 0;
+margin: 0;
+font-weight: 700;
+border-radius: 0 0 6px 6px;
+
+}
+
+h2{
+font-size:23px;
+color: #484848;
+margin: 35px 0 20px 0;
+
+}
+
+p{
+font-size: 16px;
+line-height: 28px;
+color: #1f1f1f;
+}
+
+h3{
+font-size: 18px;
+color: #1f1f1f;
+margin: 15px 0 10px 15px;
+}
+
+h4{
+font-size: 18px;
+color: #1f1f1f;
+margin: 15px 0 10px 15px;
+}
+
+h5{
+font-size: 18px;
+color: #1f1f1f;
+margin: 15px 0 10px 15px;
+}
+
+.code__title{
+font-size: 25px;
+color: #484848;
+letter-spacing: 0.3px;
+font-weight: 500;
+text-transform: uppercase;
+margin: 40px 0 0 0;
+text-align: center;
+}
+
+.code{
+font-family: monospace;
+color: #484848;
+margin-top: 0;
+padding-left: 50px;
+}
+
+.variable{
+color: #E91E63;
+}
+
+.variable_name{
+color: #00BCD4;
+}
+
+.codecode__comment{
+color: #cbcbcb;
+margin:0 0 -5px 0;
+}
+
+.image_tittle{
+text-align: center;
+color: #666;
+font-style: italic;
+font-size: 12px;
+margin:5px 0 0 0;
+
+}
+
+ol, ul {
+margin:10px 0;
+padding:0 0 0 30px;
+}
+
+li{
+color:#bbc7d9;
+}
+li p{
+margin:5px 0 5px 5 px;
+}
+
+a{
+color: #244c8e;
+text-decoration: none;
+
+}
+.lucky{
+text-align: center;
+color: #244c8e;
+font-style: italic;
+margin:30px 0;
+}
+
+.author__name{
+color: #244c8e
+letter-spacing 0.3px;
+font-weight: 600;
+margin 0 0;
+}
+
+.author__position{
+font-size: 13px;
+color: #666;
+line-height:18px;ы
+font-style: italic;
+margin 0 0
+}
+
+.end{
+font-family:'Dancing Script', cursive;
+color: #f2c330;
+font-size: 20px;
+text-align: right;
+margin: 30px 0 70px 0;
+}
